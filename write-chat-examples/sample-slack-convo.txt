@@ -1,0 +1,7 @@
+Sam (Engineer): Hey anyone know why the staging server is acting weird?
+
+Taylor (DevOps): Yeah, we had a deploy 10 minutes ago — might be related.
+
+Sam: Got it. Mind dropping a link to the logs?
+
+Taylor: Sending now!

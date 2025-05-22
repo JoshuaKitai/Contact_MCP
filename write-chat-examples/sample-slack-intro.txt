@@ -1,0 +1,9 @@
+Alex (Manager): Hey everyone, please welcome Jordan to the team!
+
+Jordan (Intern): Thanks Alex! I'm excited to get started.
+
+Alex (Manager): Feel free to introduce yourself when you’re ready.
+
+Jordan (Intern): Sure! I'm a second-year CS student and I’ll be helping out with internal tools and dashboards.
+
+Alex (Manager): Awesome — don’t hesitate to reach out if you have any questions!
